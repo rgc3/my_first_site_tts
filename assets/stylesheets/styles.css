@@ -1,0 +1,25 @@
+#content {
+  width: 1000px;
+  background: #ff6666;
+  border: 5px solid black;
+  padding: 20px; /* Adds 20px of space to all sides */
+  margin: 20px auto;  /* Adds 20px to the top & bottom & centers left/right */
+}
+
+img {
+  width: 300px;
+  float: left;
+  padding-right: 10px;
+}
+
+.footer {
+	height: 20px;
+	width: 1000px;
+	border: 5px solid black;
+	background-color: #336699;
+	font: 12px;
+	color: white;
+	padding: 20px;
+	margin: 20px auto;
+	text-align: center;
+}
