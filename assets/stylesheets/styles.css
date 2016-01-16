@@ -1,7 +1,7 @@
 #content {
   width: 1000px;
-  background: #ff6666;
-  border: 5px solid black;
+  background: #50a2a7;
+  border: 2px solid black;
   padding: 20px; /* Adds 20px of space to all sides */
   margin: 20px auto;  /* Adds 20px to the top & bottom & centers left/right */
 }
@@ -15,11 +15,41 @@ img {
 .footer {
 	height: 20px;
 	width: 1000px;
-	border: 5px solid black;
-	background-color: #336699;
+	border: 2px solid black;
+	background-color: #9b2915;
 	font: 12px;
-	color: white;
+	color: #1c110a;
 	padding: 20px;
 	margin: 20px auto;
 	text-align: center;
 }
+
+body {
+	background-color: #e4d6a7;
+}
+
+.one {
+	height: 20px;
+	width: 1000px;
+	border: 2px solid black;
+	background-color: #e9b44c;
+	font: 12px;
+	color: #1c110a;
+	padding: 20px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+.two {
+	height: 20px;
+	width: 1000px;
+	border: 2px solid #50a2a7;
+	background-color: #1c110a;
+	font: 12px;
+	color: #50a2a7;
+	padding: 20px;
+	margin: 20px auto;
+	text-align: center;
+}
+
+
