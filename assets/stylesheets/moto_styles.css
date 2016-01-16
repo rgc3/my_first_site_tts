@@ -1,6 +1,54 @@
-#header {
-	padding: 20px; /* Adds 20px of space to all sides */
-	/* margin: 0 ;  /* Adds 20px to the top & bottom & centers left/right */
-	margin-left: auto;
-  margin-right: auto;
+body {
+	background-color: #a2d459
 }
+
+header {
+text-align: center;
+}
+
+.intro {
+	text-align: center;
+}
+
+#trips {
+	margin: 20px auto 100px;
+	width: 650px;
+	height: 510px;
+	/* background-color: #C0C0C0; */
+}
+
+.trip {
+	border-radius: 0 0 10px 10px;
+	background-color: #080808;
+	border: 2px solid black;
+	margin: 10px;
+	width: 300px;
+	color: #a2d459;
+	text-align: center;
+	font-size: 22px;
+}
+
+.trip.trip1 {
+	float: left;
+}
+
+.trip.trip2 {
+	float: right;
+}
+
+.trip.trip3 {
+	float: left;
+}
+
+.trip.trip4 {
+	float: right;
+}
+
+/*.img {
+	border-radius: 10px 10px 0 0;
+}*/
+
+footer {
+	text-align: center;
+}
+
