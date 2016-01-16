@@ -1,0 +1,6 @@
+#header {
+	padding: 20px; /* Adds 20px of space to all sides */
+	/* margin: 0 ;  /* Adds 20px to the top & bottom & centers left/right */
+	margin-left: auto;
+  margin-right: auto;
+}
